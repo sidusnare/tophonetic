@@ -1,7 +1,7 @@
 tophonetic.py
 =============
 
-To Phonetic is a python script that takes arguments and turns it into NATO phonetic alphabet.
+To Phonetic is a python script that takes arguments and turns it into those arguments NATO phonetic alphabet spelling.
 
 This is just a handy script, especially for techs doing phone support, that one could use in conjunction with output you need to read out to someone, such as a password generation script.
 
